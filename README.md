@@ -111,6 +111,9 @@ FROM `vanilla-steel-task-2.deals_vanila_steel.deals_vanila`
 GROUP BY buyer_company
 ORDER BY total_revenue DESC;
 
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/c5ff3d86-728c-4cd2-b163-bb9076e8a925" />
+
+
 
 
 ## Dashboard Setup in Looker Studio
